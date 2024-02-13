@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre Mim
 - 🚀 Atualmente, sou Analista de Projetos na Tata Consultancy Services, focando em gerenciamento ágil e liderança de equipe.
-- 🎓 Formado em Sistema de Informações pela Estácio, com MBA em Gestão de Projetos e atualmente estudando Engenharia de Software.
+- 🎓 Formado em Sistema de Informações, com MBA em Gestão de Projetos e atualmente estudando Engenharia de Software.
 - 🌱 Apaixonado por aprendizado contínuo, atualmente explorando novas tecnologias e programação.
 - 💬 Vamos conversar sobre gestão ágil, Scrum, Kanban, e como a tecnologia pode transformar negócios!
 
