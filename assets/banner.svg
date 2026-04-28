@@ -1,0 +1,69 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Thiago de Alvarenga - Technology, Delivery and Systems Thinking">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#102A3D"/>
+      <stop offset="1" stop-color="#0B3A36"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="120" x2="1080" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="0.5" stop-color="#A7F3D0"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 700 52px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #F8FAFC; }
+      .subtitle { font: 500 23px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #C7D2FE; }
+      .chip { font: 600 16px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #E2E8F0; }
+      .small { font: 500 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #CBD5E1; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+      .pulse2 { animation: pulse 3.4s ease-in-out infinite; transform-origin: center; }
+      .flow { stroke-dasharray: 12 18; animation: dash 7s linear infinite; }
+      @keyframes dash { to { stroke-dashoffset: -240; } }
+      @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.04); } }
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+  <circle cx="1040" cy="65" r="150" fill="#14B8A6" opacity=".08"/>
+  <circle cx="160" cy="300" r="180" fill="#6366F1" opacity=".12"/>
+  <path class="flow" d="M110 235 C260 115, 380 285, 535 175 S805 105, 1085 220" stroke="url(#line)" stroke-width="4" opacity=".75" filter="url(#softGlow)"/>
+  <g class="pulse">
+    <rect x="120" y="196" width="156" height="76" rx="18" fill="#0F172A" stroke="#38BDF8" opacity=".9"/>
+    <text x="148" y="228" class="small">FLOW</text>
+    <text x="148" y="253" class="chip">Lead time</text>
+  </g>
+  <g class="pulse2">
+    <rect x="505" y="132" width="184" height="82" rx="18" fill="#0F172A" stroke="#34D399" opacity=".9"/>
+    <text x="535" y="164" class="small">SYSTEMS</text>
+    <text x="535" y="190" class="chip">Thinking</text>
+  </g>
+  <g class="pulse">
+    <rect x="910" y="184" width="178" height="82" rx="18" fill="#0F172A" stroke="#C4B5FD" opacity=".9"/>
+    <text x="940" y="216" class="small">DELIVERY</text>
+    <text x="940" y="242" class="chip">Governance</text>
+  </g>
+  <text x="76" y="90" class="title">Thiago de Alvarenga</text>
+  <text x="78" y="130" class="subtitle">Technology • Delivery • Flow Metrics • Systems Thinking • AI Experiments</text>
+  <g transform="translate(78 170)">
+    <rect width="182" height="36" rx="18" fill="#0F172A" stroke="#334155"/>
+    <text x="18" y="24" class="chip">Agile Governance</text>
+  </g>
+  <g transform="translate(278 170)">
+    <rect width="150" height="36" rx="18" fill="#0F172A" stroke="#334155"/>
+    <text x="18" y="24" class="chip">Kanban Flow</text>
+  </g>
+  <g transform="translate(446 170)">
+    <rect width="178" height="36" rx="18" fill="#0F172A" stroke="#334155"/>
+    <text x="18" y="24" class="chip">AI + Automation</text>
+  </g>
+  <g transform="translate(642 170)">
+    <rect width="210" height="36" rx="18" fill="#0F172A" stroke="#334155"/>
+    <text x="18" y="24" class="chip">Software Engineering</text>
+  </g>
+</svg>
