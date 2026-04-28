@@ -1,0 +1,30 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated systems thinking card">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="640" y2="360">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#123B3A"/>
+    </linearGradient>
+    <style>
+      .label { font: 700 24px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #F8FAFC; }
+      .mini { font: 600 15px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #CBD5E1; }
+      .node { animation: glow 2.6s ease-in-out infinite; transform-origin:center; }
+      .node2 { animation: glow 3.2s ease-in-out infinite; transform-origin:center; }
+      .path { stroke-dasharray: 8 12; animation: move 6s linear infinite; }
+      @keyframes move { to { stroke-dashoffset: -160; } }
+      @keyframes glow { 0%,100% { opacity:.55; } 50% { opacity:1; } }
+    </style>
+  </defs>
+  <rect width="640" height="360" rx="28" fill="url(#card)"/>
+  <text x="44" y="64" class="label">Thinking in flows, systems and decisions</text>
+  <text x="44" y="94" class="mini">A technical hobby space for experiments, clarity and learning.</text>
+  <path class="path" d="M115 230 C210 120, 330 300, 455 165" stroke="#67E8F9" stroke-width="4"/>
+  <path class="path" d="M150 155 C275 80, 390 120, 525 245" stroke="#A7F3D0" stroke-width="3" opacity=".8"/>
+  <circle class="node" cx="115" cy="230" r="24" fill="#0EA5E9"/>
+  <circle class="node2" cx="260" cy="160" r="20" fill="#22C55E"/>
+  <circle class="node" cx="455" cy="165" r="24" fill="#8B5CF6"/>
+  <circle class="node2" cx="525" cy="245" r="18" fill="#F59E0B"/>
+  <text x="83" y="292" class="mini">flow</text>
+  <text x="232" y="128" class="mini">metrics</text>
+  <text x="420" y="128" class="mini">systems</text>
+  <text x="492" y="292" class="mini">value</text>
+</svg>
