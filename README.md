@@ -36,18 +36,32 @@ Minha atuação principal está em **gestão, delivery, governança e melhoria c
 
 ---
 
-## 📊 GitHub em movimento
+## 🧪 Laboratório técnico
+
+Este GitHub funciona como um espaço pessoal de estudo, experimentação e organização de raciocínio técnico.
+
+Não é uma vitrine de frequência, sequência de commits ou produtividade artificial. É um ambiente para manter repertório vivo, testar ideias e registrar aprendizados com intenção.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tduquedealvarenga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Estudos-Engenharia%20de%20Software-2563EB?style=for-the-badge" alt="Estudos de Engenharia de Software" />
+  <img src="https://img.shields.io/badge/Experimentos-IA%20%26%20Automa%C3%A7%C3%A3o-7C3AED?style=for-the-badge" alt="Experimentos com IA e Automação" />
+  <img src="https://img.shields.io/badge/Notas-Arquitetura%20%26%20Sistemas-0F766E?style=for-the-badge" alt="Notas de Arquitetura e Sistemas" />
+  <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-Decis%C3%B5es%20%26%20Racioc%C3%ADnio-111827?style=for-the-badge" alt="Documentação técnica" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tduquedealvarenga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### O que pode aparecer por aqui
+
+| Tipo de conteúdo | Por que existe aqui |
+|---|---|
+| **Estudos técnicos** | Consolidar fundamentos e manter repertório ativo |
+| **Automação e IA** | Testar formas de reduzir atrito, organizar informação e ampliar produtividade |
+| **Arquitetura e modelagem** | Pensar sistemas, dependências e decisões antes da implementação |
+| **Documentação técnica** | Transformar raciocínio em memória reutilizável |
+| **Protótipos e provas de conceito** | Experimentar ideias sem a obrigação de vender um portfólio dev |
+| **Métricas e fluxo** | Explorar como trabalho, sistemas e decisões se comportam ao longo do tempo |
 
 <p align="center">
-  <em>Mais importante que volume é intenção: aprender, estruturar e evoluir com consistência.</em>
+  <em>Mais importante que volume é intenção: aprender, testar, estruturar e evoluir pensamento técnico com consistência.</em>
 </p>
 
 ---
