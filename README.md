@@ -12,10 +12,31 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://api.whatsapp.com/send?phone=5521936183173&text=Ol%C3%A1%2C%20Thiago%21%20Te%20achei%20no%20GitHub%20e%20gostaria%20de%20conversar.">
+    <img src="https://img.shields.io/badge/WhatsApp-Te%20achei%20no%20GitHub-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://chat.whatsapp.com/JMUusUc1hTz7r9yJYrg7WS">
+    <img src="https://img.shields.io/badge/Comunidade-Tech%20%26%20Engenharia-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Comunidade de Tecnologia" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Agile-Governance-2563EB?style=for-the-badge" alt="Agile Governance" />
   <img src="https://img.shields.io/badge/Kanban-Flow%20Metrics-16A34A?style=for-the-badge" alt="Kanban Flow Metrics" />
   <img src="https://img.shields.io/badge/AI-Experiments-7C3AED?style=for-the-badge" alt="AI Experiments" />
   <img src="https://img.shields.io/badge/Systems-Thinking-0F172A?style=for-the-badge" alt="Systems Thinking" />
+</p>
+
+---
+
+## 📊 GitHub em movimento
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tduquedealvarenga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tduquedealvarenga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,14 +105,22 @@ Esse olhar técnico me ajuda a atuar melhor em **gestão, delivery, governança,
 
 ---
 
-## 📊 GitHub em movimento
+## 🤝 Vamos conversar?
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tduquedealvarenga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ver%20trajet%C3%B3ria%20profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5521936183173&text=Ol%C3%A1%2C%20Thiago%21%20Te%20achei%20no%20GitHub%20e%20gostaria%20de%20conversar.">
+    <img src="https://img.shields.io/badge/WhatsApp-Chamar%20para%20conversa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://chat.whatsapp.com/JMUusUc1hTz7r9yJYrg7WS">
+    <img src="https://img.shields.io/badge/Comunidade-Entrar%20no%20grupo%20tech-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Comunidade de Tecnologia" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tduquedealvarenga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <em>Gestão em tecnologia fica melhor quando quem lidera ainda entende o fluxo, o sistema e o trabalho real.</em>
 </p>
 
 <!--
@@ -99,17 +128,3 @@ Observação:
 Evitei seção de "projetos em destaque" para não posicionar este perfil como vitrine de desenvolvedor.
 A intenção aqui é demonstrar repertório técnico, curiosidade, raciocínio sistêmico e conexão real com tecnologia.
 -->
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Gestão em tecnologia fica melhor quando quem lidera ainda entende o fluxo, o sistema e o trabalho real.</em>
-</p>
